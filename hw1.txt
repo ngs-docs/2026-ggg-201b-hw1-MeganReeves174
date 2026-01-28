@@ -1,0 +1,78 @@
+which variants are present in which samples?
+SRR2584403_1
+Position: 1329520 Ref: T Alt: G
+Position: 4141016 Ref: C Alt: A
+
+SRR2584404_1
+Position: 238917 Ref: G Alt: T
+Position: 806308 Ref: ATT Alt: AT
+Position: 1329520 Ref: T Alt: G
+Position: 4141016 Ref: C Alt: A
+
+SR254405_1
+Position: 15382	Ref: C	Alt: T
+Position: 154497 Ref: T	Alt: G
+Position: 254101 Ref: T	Alt: G
+Position: 649522 Ref: C	Alt: T
+Position: 692265 Ref: C	Alt: T
+Position: 692268 Ref: A	Alt: G
+Position: 708118 Ref: T	Alt: C
+Position: 1176010	Ref: T Alt: G	
+Position: 1503866	Ref: A Alt: C
+Position: 1680445	Ref: A Alt: T
+Position: 1680446	Ref: A Alt: T
+Position: 1733754	Ref: A Alt: T
+Position: 1996109	Ref: A Alt: T
+Position: 2000253	Ref: A Alt: T
+Position: 2020126	Ref: C Alt: G
+Position: 2103887	Ref: ACAGCCAGCCAGCCAGCCAGCCAGCCAGCCAG Alt: ACAGCCAGCCAGCCAGCCAGCCAGCCAGCCAGCCAG
+Position: 2296329	Ref: A Alt: C
+Position: 2330469	Ref: A Alt: T
+Position: 2330472	Ref: A Alt: T
+Position: 2416966 Ref: C Alt: T
+Position: 2671373	Ref: T Alt: G
+Position: 2671376 Ref: C Alt: A
+Position: 2682710	Ref: G Alt: C
+Position: 2682764	Ref: C Alt: T
+Position: 3090762	Ref: C Alt: A
+Position: 3090763	Ref: T Alt: G
+Position: 3268057	Ref: T Alt: C
+Position: 3351282	Ref: C Alt: T
+Position: 3509753	Ref: T Alt: C
+Position: 3568506	Ref: T Alt: G
+Position: 3762120	Ref: C Alt: A
+Position: 4029556	Ref: G Alt: T
+Position: 4029559	Ref: A Alt: C
+Position: 4192865	Ref: G Alt: A
+Position: 4497049	Ref: T Alt: G
+Position: 4503866	Ref: T Alt: C
+Position: 4504217	Ref: G Alt: A
+Position: 4504253	Ref: G Alt: A
+Position: 4505396	Ref: T Alt: C
+Position: 4505407	Ref: G Alt: A
+Position: 4506070	Ref: A Alt: T
+Position: 4593578	Ref: C Alt: T
+
+SRR2584857_1
+Position: 920514 Ref: T Alt: C
+Position: 3931002 Ref: A Alt: C
+Position: 4141441	Ref: C Alt: T
+Position: 4202391	Ref: T Alt: G
+Position: 4530767 Red: CACCCTAACCCT Alt: CACCCTAACCCTAACCCT
+
+which variants are shared between two or more samples?
+
+Position: 1329520 Ref: T Alt: G
+Position: 4141016 Ref: C Alt: A
+
+are there any variants that stand out in terms of their likely biological impact?
+
+Position: 4530767 Red: CACCCTAACCCT Alt: CACCCTAACCCTAACCCT
+Position: 2103887	Ref: ACAGCCAGCCAGCCAGCCAGCCAGCCAGCCAG Alt: ACAGCCAGCCAGCCAGCCAGCCAGCCAGCCAGCCAG
+Position: 806308 Ref: ATT Alt: AT 
+These indels are biologically important because they could potentially impact the reading frame.
+
+Position: 1329520 Ref: T Alt: G
+Position: 4141016 Ref: C Alt: A
+
+These are shared amongst two of the samples, which means that there may be some biological importance for this substituion.
